@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Software Engineering student focused on backend development and scalable systems. <br><br>🔭 I’m currently working on building scalable full-stack applications with clean architecture and strong performance focus.<br><br>🤝 I’m looking to collaborate on web platforms, SaaS products, and backend-driven systems where code quality and structure matter.<br><br>🛠 I’m improving system design fundamentals, API architecture, database optimization, and production-ready DevOps workflows.<br><br>🌱 I’m currently learning cloud deployment strategies, distributed system concepts, and writing maintainable, testable code at scale.<br><br>💬 Ask me about REST APIs, backend architecture, databases, performance optimization, and modern frontend integration.
+📚 Software Engineering student who enjoys building things and breaking them to figure out how they work. Always learning, usually debugging.
 
 
 ## 🌐 Socials:
